@@ -112,7 +112,7 @@ A Premium Event Management Platform for Sri Lanka
 </a>
 
 <!-- Replace this with your LinkedIn URL -->
-<a href="www.linkedin.com/in/nisal-aravinda-45b200367">
+<a href="https://www.linkedin.com/in/nisal-aravinda-45b200367/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
