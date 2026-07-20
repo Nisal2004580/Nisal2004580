@@ -75,13 +75,7 @@ A Premium Event Management Platform for Sri Lanka
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal2004580&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -95,13 +89,7 @@ A Premium Event Management Platform for Sri Lanka
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nisal2004580&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
